@@ -9,16 +9,16 @@
 <body>
 <img src="img/meuAvatar(1).png" alt="avatar da Bruna" srcset="" />
     <p>Eu sou Bruna</p>
-    <h1>Eu ensino Programação</h1>
+    <h1>Eu aprendo Programação</h1>
     <p>
-      Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
-      para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
-      computacional usando HTML, CSS e JavaScript.
+      Sou aluna do CCM,do 2 ano com a professora Alexandra,gosto de dormir,comer.
+      quero fazer odontologia
+      
     </p>
     <p>Minhas habilidades</p>
     <div>
-        <p>HTML</p>
-        <p>CSS</p>
+        <p>cozinhar</p>
+        <p>css</p>
         <p>JavaScript</p>
         <p>Scratch</p>
       </div>
